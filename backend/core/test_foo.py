@@ -1,4 +1,4 @@
-from core.fields import Animal
+from core.foo import Animal
 
 
 def test_speaking():
