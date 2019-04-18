@@ -1,0 +1,5 @@
+{
+  // use Miscrosoft's C#-based language server instead of jedi
+  "python.jediEnabled": false,
+  "python.pythonPath": "backend/.venv/bin/python",
+}
